@@ -3,3 +3,4 @@
 2. Insertion Sort
 3. Consecutive Characters
 4. Minimum Height Trees
+5. Minimum Cost to Move Chips to The Same Position
