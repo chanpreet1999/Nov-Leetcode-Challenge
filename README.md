@@ -9,3 +9,4 @@
 8. Binary Tree Tilt
 9. Maximum Difference Between Node and Ancestor
 10. Flipping an Image
+11. Valid Square
