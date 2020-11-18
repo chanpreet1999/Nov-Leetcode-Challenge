@@ -16,3 +16,4 @@
 15. Range Sum of BST
 16. Longest Mountain in Array
 17. Mirror Reflection
+18. Merge Intervals
