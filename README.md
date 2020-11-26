@@ -23,3 +23,4 @@
 22. Unique Morse Code Words
 23. House Robber III
 24. Basic Calculator II
+25. Smallest Integer Divisible by K
