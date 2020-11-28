@@ -25,3 +25,4 @@
 24. Basic Calculator II
 25. Smallest Integer Divisible by K
 26. Longest Substring with At Least K Repeating Characters
+27. Partition Equal Subset Sum
