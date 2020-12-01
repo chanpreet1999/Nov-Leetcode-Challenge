@@ -28,3 +28,4 @@
 27. Partition Equal Subset Sum
 28. Sliding Window Maximum
 29. Jump Game III
+30. The Skyline Problem
